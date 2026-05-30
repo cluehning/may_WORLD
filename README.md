@@ -6,7 +6,7 @@ Built with **Dash + Plotly**, this tool helps Model United Nations (MUN) delegat
 
 ---
 
-# 🚀 Features
+# Features
 
 ## 🌐 Interactive World Map
 - Visual world map showing crisis intensity by country  
@@ -27,21 +27,21 @@ Built with **Dash + Plotly**, this tool helps Model United Nations (MUN) delegat
 
 ---
 
-## 🎯 Filtering System
+## Filtering System
 - Select one or multiple crisis categories  
 - Compare different types of global risk  
 - Adjust severity threshold with slider  
 
 ---
 
-## 🧠 Analytical Tools
+## Analytical Tools
 - Combined crisis score (normalized)  
 - Top countries based on risk  
 - Regional comparison  
 
 ---
 
-## 🗺️ Country Intelligence Panel
+## Country Intelligence Panel
 Click any country to see:
 
 - All selected indicators  
